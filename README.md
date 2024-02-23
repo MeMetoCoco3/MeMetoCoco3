@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MeMetoCoco3
 - 👀 I’m interested in programming fullstack!
-- 🌱 I’m currently learning Python, HTML, CSS and C#
+- 🌱 I’m currently learning Python and C.
 - 💞️ I’m noy looking to collaborate yet, just to learn more.
 
 <!---
