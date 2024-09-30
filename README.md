@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @MeMetoCoco3
-- 👀 I’m interested in learning!
-- 🌱 I’m currently learning Python, C and Godot.
-- 💞️ I’m noy looking to collaborate yet, just to learn more.
+# Hi, I`m Vidal
+- 🤖 I've been coding in Python for the last year and a half.
+- 📖 Learning Django at the moment
+- 🔧 Digging C and GO when I have the time.
+- 🧩 I’m looking to collaborate, in anything related to python and GO.
 
 <!---
 MeMetoCoco3/MeMetoCoco3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
