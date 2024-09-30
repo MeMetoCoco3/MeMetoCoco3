@@ -1,7 +1,7 @@
 # Hi, I`m Vidal
 - 🤖 I've been coding in Python for the last year and a half.
 - 📖 Learning Django at the moment
-- 🔧 Digging C and GO when I have the time.
+- 🔧 Love digging C and GO when I have the time.
 - 🧩 I’m looking to collaborate, in anything related to python and GO.
 
 <!---
